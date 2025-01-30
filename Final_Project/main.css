@@ -33,6 +33,7 @@ div.wrap-head {
   background: #EFF0F3;
   box-shadow: 4px 6px 13px 0 rgba(215, 215, 215, 0.25);
   position: fixed;
+  z-index: 1;
 }
 
 header {
@@ -99,6 +100,7 @@ div.nav_button_buy button {
 }
 
 /*---------------------- main ----------------------------*/
+/*---------------------- section_hi_dasteen --------------*/
 section.hi_dasteen {
   background: #EFF0F3;
   height: 900px;
@@ -364,7 +366,7 @@ div.card_bottom_info span {
   padding: 0 6px 0 6px;
   position: relative;
   top: -1px;
-}
+ }
 
 div.article_card:hover {
   box-shadow: 4px 6px 13px 0 rgba(215, 215, 215, 0.25);
